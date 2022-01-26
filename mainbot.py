@@ -1,9 +1,11 @@
 import nltk
 from nltk.stem.lancaster import LancasterStemmer
-stemmer = lancasterStemmer
+stemmer = LancasterStemmer
 import numpy
 import tflearn
 import tensorflow
 import json
 import random
 import pickle
+
+nltk.download('punkt')
