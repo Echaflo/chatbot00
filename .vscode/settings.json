@@ -2,6 +2,7 @@
     "svn.ignoreMissingSvnWarning": true,
     "cSpell.words": [
         "nltk",
+        "punkt",
         "tflearn"
     ]
 }

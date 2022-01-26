@@ -9,3 +9,6 @@ import random
 import pickle
 
 nltk.download('punkt')
+
+with open("contenido.json") as archivo:
+   datos =json.load(archivo)
